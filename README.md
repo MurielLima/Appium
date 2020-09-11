@@ -3,11 +3,8 @@
 Criar uma pasta para trabalhar.
 Criar um arquivo na raiz do projeto 'variaveisAmbiente.config.js' com as variáveis que estão dentro dos testes.
 
-## Para iniciar package.json
- $ npm init -y 
-
-## Para instalar webdriverio
- $ npm install webdriverio
+## Para iniciar o projeto
+ $ npm install
 
 ## Iniciar o appium em um terminal
  $ appium
