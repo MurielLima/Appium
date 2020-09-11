@@ -1,6 +1,8 @@
 
 # APPIUM
 
+[Documentação do framework](http://appium.io/docs/en/about-appium/intro/)
+
 - Criar uma pasta para trabalhar.
 - Adicionar as variáveis de ambiente que serão utilizadas dentro dos testes no arquivo 'variaveisAmbiente.config.js'.
 
