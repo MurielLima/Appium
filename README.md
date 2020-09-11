@@ -1,7 +1,7 @@
 #APPIUM
 
 Criar uma pasta para trabalhar.
-Criar um arquivo na raiz do projeto 'variaveisAmbiente.config.js' com as variáveis que estão dentro dos testes.
+Adicionar as variáveis de ambiente que serão utilizadas dentro dos testes no arquivo 'variaveisAmbiente.config.js'.
 
 ## Para iniciar o projeto
  $ npm install
@@ -13,7 +13,8 @@ Criar um arquivo na raiz do projeto 'variaveisAmbiente.config.js' com as variáv
  $ emulator -list-avds
  $ emulator @deviceName
 
-## Verificar com UiAutomator2 o contexto
+## Iniciar o UiAutomator2 em outro terminal
+// Serve para verificar contexto na criação dos testes
  $ uiautomatorviewer
 
 
